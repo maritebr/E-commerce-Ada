@@ -18,7 +18,7 @@ import { FaRegUser } from 'react-icons/fa'
 
 import CartContext from '../../Context/CartContext'
 import SesionIniciada from '../SesionIniciada'
-import Login from './login'
+import Login from './Login'
 import Register from './Register'
 
 const Forms = () => {
